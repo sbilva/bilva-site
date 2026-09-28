@@ -189,7 +189,6 @@
             '<div><h5>Company</h5><ul>' +
               '<li><a href="about.html">Who We Are</a></li>' +
               '<li><a href="industries.html">Industries</a></li>' +
-              '<li><a href="index.html#impact">Case Studies</a></li>' +
               '<li><a href="services.html#mergers-and-acquisitions">Mergers &amp; Acquisitions</a></li>' +
               '<li><a href="contact.html">Contact</a></li>' +
               '<li><a href="design-template.html">Design Template</a></li>' +
